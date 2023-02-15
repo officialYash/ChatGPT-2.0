@@ -1,4 +1,5 @@
 import './App.css'
+import ChatBody from './components/ChatBody'
 
 function App() {
   return (
@@ -14,7 +15,7 @@ ChatGPT 2.0
 
   {/* body */}
 
-  <div> body</div>
+  <div> <ChatBody/> </div>
 
   {/* input */}
 
