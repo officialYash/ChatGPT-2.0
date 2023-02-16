@@ -17,4 +17,3 @@ export const fetchResponse =  async(chat) => {
         console.log(error);
     }
 }
-Footer
